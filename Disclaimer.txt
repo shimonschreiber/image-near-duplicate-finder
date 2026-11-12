@@ -1,0 +1,1 @@
+Always review pairs before deleting. Perceptual similarity is not a guarantee that two files are interchangeable for every purpose (metadata, exact pixels, archival needs).

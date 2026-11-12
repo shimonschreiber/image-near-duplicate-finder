@@ -1,0 +1,5 @@
+ContributingIssues and pull requests are welcome. Useful directions:
+- Faster matching (e.g. binary ANN / faiss)
+- Additional hashes (aHash, dHash) combined with pHash
+- Cancelable scan / progress improvements
+- Optional session-only temp cache for hashes
